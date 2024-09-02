@@ -1,0 +1,5 @@
+Escolher o modelo de nuvem não é uma tarefa tão facil, mas acredito que a adoção entre uma delas ou a combinação se dará numa relação entre custo e segurança. Podemos adotar uma nuvem hibrida, onde dados sensiveis fiquem na parte privada, ou seja, com a responsabilidade do provedor em garantir que estes dados estejam seguros e acessiveis quando precisarmos, enquanto os serviços menos criticos optarmos pela nuvem publica. Acredito que o provedor mais difundido, com mais beneficios e entre outras vantages é o AWS Web Services.
+
+Devemos utilizar e ou configurar alertas visando que um serviço ou conjunto deles alertem para os limites de gastos para que não tenhamos surpresas na fatura.
+
+Realizar testes e levantamentos sobre a compatibilidade dos sistemas legados e a migração, implantação ou funcionamento conjunto destes sistemas com as tecnologias adotadas.
